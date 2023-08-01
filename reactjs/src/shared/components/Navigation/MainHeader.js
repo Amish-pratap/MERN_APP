@@ -6,4 +6,4 @@ const MainHeader = props => {
     </header>
 }
 
-export default MainHeader; 
+export default MainHeader;   
